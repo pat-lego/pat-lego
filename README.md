@@ -1,16 +1,23 @@
-### Hi there 👋
+# Pat Legault
 
-<!--
-**pat-lego/pat-lego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/twitter/follow/_patlego.svg?style=social&label=@_patlego)](https://twitter.com/_patlego) 
+![Github](https://img.shields.io/github/followers/pat-lego?label=Follow&style=social) 
+![Website](https://img.shields.io/badge/Profile-https%3A%2F%2Fpat--lego.com-orange) 
 
-Here are some ideas to get you started:
+# Quick Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer who is passionate about learning new things and developing new solutions for others. I have years experience working with enterprise Java technology mixed with cloud solutions. An example of one of the solutions that I helped architecture/develop is the [Outstem](https://forms.outstem.io/#/forms/uOttawa) system
+
+## Skills 
+
+- AWS Container Services
+- AWS Functions
+- Travis CI 
+- Hot/Cold Deployment Topologies
+- Enterprise OSGi Technology [@Karaf](https://github.com/apache/karaf/) and [@Sling](https://github.com/apache/sling-org-apache-sling-starter)
+- Vue.js
+- Process Definition
+
+# Likes
+
+I enjoy making food, you eat three times a day so it might as well be good. I enjoy biking, luckily I live in Ottawa with all of the bike paths. Lastly I enjoy settling down and enhoying a good movie.
