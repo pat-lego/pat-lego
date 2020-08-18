@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/_patlego.svg?style=social&label=@_patlego)](https://twitter.com/_patlego) 
 ![Github](https://img.shields.io/github/followers/pat-lego?label=Follow&style=social) 
-![Website](https://img.shields.io/badge/Profile-https%3A%2F%2Fpat--lego.com-orange) 
+![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fwww.pat--lego.com-orange) 
 
 # Quick Bio
 
