@@ -20,4 +20,4 @@ I am a developer who is passionate about learning new things and developing new 
 
 # Likes
 
-I enjoy making food, you eat three times a day so it might as well be good. I enjoy biking, luckily I live in Ottawa with all of the bike paths. Lastly I enjoy settling down and enhoying a good movie.
+I enjoy making food, you eat three times a day so it might as well be good. I enjoy biking, luckily I live in Ottawa with all of the bike paths. Lastly I enjoy settling down and enjoying a good movie.
